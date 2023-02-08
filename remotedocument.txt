@@ -1,1 +1,1 @@
-I am remote document and changes are pull yo remote git repos.
+I am remote document and changes are pull to remote git repos.
