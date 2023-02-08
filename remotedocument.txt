@@ -1,1 +1,1 @@
-I am explaining git fetch command
+I am User2 scope and made some changes when user1 working on those files!
