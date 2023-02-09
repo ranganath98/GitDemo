@@ -1,1 +1,1 @@
-Third commit - Git Revert command
+Second commit - Git Revert command
